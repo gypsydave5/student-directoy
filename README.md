@@ -8,6 +8,8 @@ The student directory script allows you to manage the list of students enrolled 
 How to use
 ----------
 
+Clone the repo, make sure you have Ruby installed and then just run:
+
 ```shell
 ruby directory.rb
 ```
